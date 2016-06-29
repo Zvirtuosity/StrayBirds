@@ -121,7 +121,7 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 精湛的艺术
-description: 年年岁岁花相似
+description: Yesterday is history, tomorrow is a mystery, and today is a gift; that's why they call it the present.
 theme: hack
 disqusname: zvirtuosity
 
