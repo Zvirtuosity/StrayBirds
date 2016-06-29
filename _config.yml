@@ -121,9 +121,9 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 精湛的艺术
-description: 人生到处知何似，应似飞鸿踏雪泥
-theme: kunka
-disqusname: minixalpha
+description: 年年岁岁花相似
+theme: midnight
+disqusname: zvirtuosity
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
