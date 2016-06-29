@@ -120,7 +120,7 @@ baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 精湛的艺术
+title:精湛的艺术
 description: 年年岁岁花相似
 theme: hack 
 disqusname: Zvirtuosity
