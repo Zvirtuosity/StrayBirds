@@ -34,7 +34,7 @@ excerpt_separator: "\n\n"
 detach:       false
 port:         4000
 host:         127.0.0.1
-baseurl:      "/blog" # does not include hostname
+baseurl:      "" # does not include hostname
 
 # Outputting
 permalink:     date
@@ -115,14 +115,14 @@ disqus:
 
 #################################### global configure #######################################
 
-username: Zvirtuosity
+username: zvirtuosity
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 精湛的艺术 
-description: 年年岁岁花相似
-theme: hack 
+title: 精湛的艺术
+description: 人生到处知何似，应似飞鸿踏雪泥
+theme: kunka
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
